@@ -1,0 +1,1 @@
+const apiUrl = 'https://api.edamam.com/api/recipes/v2?type=public&q=asian&app_id=99bcacd8&app_key=742d353ec85cd339808b8950efdd9fbf' 
